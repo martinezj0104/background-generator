@@ -28,3 +28,6 @@ git branch
 
 //Add brach
 git brach brach name
+
+//Move to a brach
+git checkout littlefeature
