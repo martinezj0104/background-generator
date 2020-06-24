@@ -16,3 +16,6 @@ git status
 
 //Commit the changes to github
 git commit -m "message"
+
+//Let github know about changes
+git push
