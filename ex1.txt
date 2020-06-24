@@ -19,3 +19,6 @@ git commit -m "message"
 
 //Let github know about changes
 git push
+
+//To get updated github files
+git pull
