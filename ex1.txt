@@ -28,3 +28,7 @@ git branch
 
 //Add brach
 git brach brach name
+
+//Check/Get updates
+git pull master
+git merge master
