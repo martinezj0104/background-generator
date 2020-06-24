@@ -22,3 +22,9 @@ git push
 
 //To get updated github files
 git pull
+
+//See branch
+git branch
+
+//Add brach
+git brach brach name
